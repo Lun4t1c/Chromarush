@@ -1,4 +1,4 @@
-from sytems.tilemap import example_map
+from systems.tilemap import example_map
 
 TILE_SIZE = 64
 
