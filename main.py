@@ -4,7 +4,7 @@ import pygame
 from systems.level import Level
 
 
-# https://youtu.be/YWN8GcmJ-jA?t=7965
+# https://youtu.be/wJMDh9QGRgs?t=48
 
 pygame.init()
 screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
